@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+mpmath==1.2.1
+numpy==1.23.3
+pandas==1.4.1
+regex==2022.10.31
+scipy==1.9.0
+seaborn==0.11.2
+tqdm==4.64.0
